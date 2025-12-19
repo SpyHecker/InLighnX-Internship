@@ -1,0 +1,6 @@
+admin
+test
+ftpuser
+guest
+info
+imapuser
